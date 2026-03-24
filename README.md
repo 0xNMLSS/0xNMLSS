@@ -19,11 +19,11 @@ A portable memory layer for LLM apps with multi-provider support (OpenAI, Anthro
 - Tech: Python, MCP server, React UI, Docker Compose
 - Repo: https://github.com/0xNMLSS/openmemory-multi-provider
 
-### 2) OpenClaw Control Center
-A local control center for agent operations and observability.
-- Focus: operational visibility, safety-first defaults, non-technical operator experience
-- Tech: TypeScript, UI dashboards, local runtime monitoring
-- Repo: https://github.com/0xNMLSS/openclaw-control-center
+### 2) AstrBot Fishing Plugin
+An LLM-powered mini-game plugin built on the AstrBot framework.
+- Focus: interactive gameplay design, natural-language interaction, and plugin-based extensibility
+- Tech: Python, AstrBot plugin architecture, LLM integration
+- Repo: https://github.com/0xNMLSS/astrbot_plugin_fishing
 
 ### 3) QReminderPlugin
 Natural-language reminder plugin for LangBot (single + recurring reminders).
