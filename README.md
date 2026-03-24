@@ -42,6 +42,14 @@ Natural-language reminder plugin for LangBot (single + recurring reminders).
 ---
 
 ## Selected Skills
-`Python` `TypeScript` `FastAPI` `React` `Docker` `PostgreSQL` `Redis` `CI/CD` `LLM APIs` `MCP`
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-6E57E0?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square&logo=protocolsdotio&logoColor=white)
 ---
